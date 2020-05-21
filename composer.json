@@ -1,0 +1,41 @@
+{
+    "name": "craftplugins/carbon",
+    "description": "Provides access to Carbon in Craft templates.",
+    "type": "craft-plugin",
+    "version": "0.1.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "carbon"
+    ],
+    "support": {
+        "docs": "https://github.com/craftplugins/carbon/blob/master/README.md",
+        "issues": "https://github.com/craftplugins/carbon/issues"
+    },
+    "authors": [
+        {
+            "name": "Craft Plugins",
+            "homepage": "https://github.com/craftplugins"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0",
+        "nesbot/carbon": "^2.34"
+    },
+    "autoload": {
+        "psr-4": {
+          "craftplugins\\carbon\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Carbon",
+        "handle": "carbon",
+        "developer": "Craft Plugins",
+        "developerUrl": "https://github.com/craftplugins",
+        "documentationUrl": "https://github.com/craftplugins/carbon/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/craftplugins/carbon/master/CHANGELOG.md",
+        "class": "craftplugins\\carbon\\Carbon"
+    }
+}
