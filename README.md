@@ -4,7 +4,7 @@
 
 Provides access to Carbon in Craft templates.
 
-<img src="screenshot.png" alt="Screenshot">
+<img src="screenshot.png?2" alt="Screenshot">
 
 ## Usage
 
