@@ -22,7 +22,7 @@
     ],
     "require": {
         "craftcms/cms": "^3.0.0",
-        "nesbot/carbon": "^2.0"
+        "nesbot/carbon": "~2"
     },
     "autoload": {
         "psr-4": {
