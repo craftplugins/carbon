@@ -4,6 +4,8 @@
 
 Provides access to Carbon in Craft templates.
 
+<img src="screenshot.png" alt="Screenshot">
+
 ## Usage
 
 This plugin simply converts a date or string into a Carbon instance.
