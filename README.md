@@ -1,4 +1,4 @@
-<img src="src/icon.svg" alt="Icon">
+<img src="src/icon.svg" alt="Icon" width="4rem">
 
 # Carbon
 
