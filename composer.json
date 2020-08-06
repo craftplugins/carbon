@@ -2,7 +2,6 @@
     "name": "craftplugins/carbon",
     "description": "Provides access to Carbon in Craft templates.",
     "type": "craft-plugin",
-    "version": "0.1.0",
     "keywords": [
         "craft",
         "cms",
