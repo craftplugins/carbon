@@ -1,10 +1,10 @@
-<img src="src/icon.svg" alt="Icon" width="64">
+<p align="center"><img src="src/icon.svg" alt="Icon" width="64"></p>
 
-# Carbon
+<h1 align="center">Carbon for Craft CMS</h1>
 
-Provides access to Carbon in Craft templates.
+This plugin provides access to [Carbon](https://carbon.nesbot.com/) dates in Craft templates.
 
-<img src="screenshot.png?2" alt="Screenshot">
+<img src="screenshot.png" alt="Screenshot">
 
 ## Usage
 
