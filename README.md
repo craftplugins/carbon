@@ -1,6 +1,8 @@
-<p align="center"><img src="src/icon.svg" alt="Icon" width="64"></p>
+> [!IMPORTANT]
+>
+> **This plugin is no longer maintained.**
 
-<h1 align="center">Carbon for Craft CMS</h1>
+# Carbon for Craft CMS
 
 This plugin provides access to [Carbon](https://carbon.nesbot.com/) dates in Craft templates.
 
